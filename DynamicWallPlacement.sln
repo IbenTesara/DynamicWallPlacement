@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D2CB4922-9FA0-EC88-307C-A72D99A9F9E5}") = "DynamicWallPlacement", "Assembly-CSharp-firstpass.csproj", "{84EA9E9F-3580-B8E3-84EB-1A51613757F6}"
+EndProject
+Project("{D2CB4922-9FA0-EC88-307C-A72D99A9F9E5}") = "DynamicWallPlacement", "Assembly-CSharp.csproj", "{5909DF52-159C-3E75-76C0-581AEFD30243}"
+EndProject
+Project("{D2CB4922-9FA0-EC88-307C-A72D99A9F9E5}") = "DynamicWallPlacement", "Assembly-CSharp-Editor.csproj", "{B0BB1B85-82ED-EB87-8119-451AF601BC58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84EA9E9F-3580-B8E3-84EB-1A51613757F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EA9E9F-3580-B8E3-84EB-1A51613757F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EA9E9F-3580-B8E3-84EB-1A51613757F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EA9E9F-3580-B8E3-84EB-1A51613757F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5909DF52-159C-3E75-76C0-581AEFD30243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5909DF52-159C-3E75-76C0-581AEFD30243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5909DF52-159C-3E75-76C0-581AEFD30243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5909DF52-159C-3E75-76C0-581AEFD30243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BB1B85-82ED-EB87-8119-451AF601BC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BB1B85-82ED-EB87-8119-451AF601BC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BB1B85-82ED-EB87-8119-451AF601BC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BB1B85-82ED-EB87-8119-451AF601BC58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
